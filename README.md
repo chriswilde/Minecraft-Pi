@@ -1,5 +1,3 @@
-# Minecraft-Pi
-Hack files for Minecraft Pi Modules
 <!DOCTYPE html>
 <html>
 <body>

@@ -906,4 +906,3 @@ def wall4():
     x=x+2
     y=y+1
     mc.setBlock(x,y,z,35,8)
-

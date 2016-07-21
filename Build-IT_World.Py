@@ -1251,4 +1251,3 @@ towerwindows(-15,2,18)
 towerwindows(-15,2,-18)
 towerwindows(15,2,18)
 towerwindows(15,2,-18)
-

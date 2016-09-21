@@ -1,13 +1,4 @@
 <html>
-<style>
-body {
-    background-color: darkgreen;
-}
-h1 {
-    color: white;
-    margin-left: 40px;
-} 
-</style>
 <body>
 <body style="background-color:powderblue;">
 <p align="center">

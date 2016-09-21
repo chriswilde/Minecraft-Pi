@@ -4,7 +4,9 @@
 # Welcome to our Minecraft Pi Github page. #
 In the links above you will find the code used in our Minecraft Modules.
 
-In order to run our files effectively it is best to use these files in conjunction with our Build-IT world. Download the Build_IT world.py and logo's.py files and run them. You will have a model world to play with and hack :smile:
+In order to run our files effectively it is best to use these files in conjunction with our [Build-IT world](Build-IT_World.py). Download [Build-IT world](Build-IT_World.py) and [Logos.py](Logos.py), save them to your mcpi folder, and run the Buid-IT world file. 
+
+You now have a model world to play with and hack :smile:
 
 Our [Map.py](Map.py) file will take you on an interactive tour of the world
 

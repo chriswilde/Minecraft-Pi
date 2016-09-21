@@ -7,7 +7,7 @@ We have created a series of Modules designed to be used by young people to devel
 
 The first module can be found [HERE](https://docs.google.com/document/d/1dm-OIPIpIEhldNtLYyG_zQk2G3-rBpYdn35__dMofp4/edit?usp=sharing)
 
-In the links above you will find the code used in our Minecraft Modules.
+In the links above you will find the code used in this module.
 
 In order to run our files effectively it is best to use these files in conjunction with our [Build-IT world](Build-IT_World.py). Download [Build-IT world](Build-IT_World.py) and [Logos.py](Logos.py), save them to your mcpi folder, and run the Buid-IT world file. 
 
@@ -19,3 +19,9 @@ Enjoy, and be awesome!
 
 If you notice any errors, or have alternative code, then please share.
 
+| Module 1 | Module 2 | Module 3 | Module 4 |
+|----------|----------|----------|----------|
+| 1        | 1        | 1        | 1        |
+|          |          |          |          |
+|          |          |          |          |
+|          |          |          |          |

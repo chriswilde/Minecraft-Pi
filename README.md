@@ -22,11 +22,11 @@ If you notice any errors, or have alternative code, then please share.
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
 |[Hello World](Hack_01_Hello_World.py)    |          |          |          |
-|Random Messages|          |          |          |
-|User Messages  |          |          |          |
-|Teleport       |          |          |          |
-|The Death Drop |          |          |          |
-|You Choose     |          |          |          |
-|Hide & Seek    |          |          |          |
-|The Glitch     |          |          |          |
-|A Little Stack |          |          |          |
+|[Random Messages](Hack_02_Random_Messages.py)|          |          |          |
+|[User Messages](Hack_03_User_Messages.py)  |          |          |          |
+|[Teleport](Hack_04_Teleport.py)       |          |          |          |
+|[The Death Drop](Hack_05_The_Death_Drop.py) |          |          |          |
+|[You Choose](Hack_06_You_Choose.py)     |          |          |          |
+|[Hide & Seek](Hack_07_Simple_Hide_And_Seek.py)    |          |          |          |
+|[The Glitch](Hack_08_The_Glitch.py)     |          |          |          |
+|[A Little Stack](Hack_09_A_Little_Stack.py) |          |          |          |

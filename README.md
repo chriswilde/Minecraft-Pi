@@ -21,7 +21,7 @@ If you notice any errors, or have alternative code, then please share.
 
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
-|Hello World    |          |          |          |
+|[Hello World](Hack_01_Hello_World.py)    |          |          |          |
 |Random Messages|          |          |          |
 |User Messages  |          |          |          |
 |Teleport       |          |          |          |

@@ -19,9 +19,14 @@ Enjoy, and be awesome!
 
 If you notice any errors, or have alternative code, then please share.
 
-| Module 1 | Module 2 | Module 3 | Module 4 |
-|----------|----------|----------|----------|
-| 1        | 1        | 1        | 1        |
-|          |          |          |          |
-|          |          |          |          |
-|          |          |          |          |
+| Module 1      | Module 2 | Module 3 | Module 4 |
+|----------     |----------|----------|----------|
+|Hello World    |          |          |          |
+|Random Messages|          |          |          |
+|User Messages  |          |          |          |
+|Teleport       |          |          |          |
+|The Death Drop |          |          |          |
+|You Choose     |          |          |          |
+|Hide & Seek    |          |          |          |
+|The Glitch     |          |          |          |
+|A Little Stack |          |          |          |

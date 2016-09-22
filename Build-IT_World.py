@@ -1251,3 +1251,5 @@ towerwindows(-15,2,18)
 towerwindows(-15,2,-18)
 towerwindows(15,2,18)
 towerwindows(15,2,-18)
+
+mc.player.setPos(0,0,0)

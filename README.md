@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = http://2.bp.blogspot.com/-Ex4C_nNDViE/U72hTKFQQmI/AAAAAAAAAFA/XkBR_d8_gzE/s1600/minecraft_pi_logo.png align="middle">
+  <img src = https://lh6.googleusercontent.com/d2l3-p55RqTL7w4dCT-F-FyzmaevIbTvcrbGnIB5sK49oFxlrTOb-hmrQWSoZBAG5AWLGvpbyZfQiI4=w2884-h1464-rw align="middle">
 </p>
 # Welcome to our Minecraft Pi Github page. #
 

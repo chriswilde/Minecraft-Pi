@@ -30,3 +30,5 @@ If you notice any errors, or have alternative code, then please share.
 |[Hide & Seek](Hack_07_Simple_Hide_And_Seek.py)    |          |          |          |
 |[The Glitch](Hack_08_The_Glitch.py)     |          |          |          |
 |[A Little Stack](Hack_09_A_Little_Stack.py) |          |          |          |
+
+If you are a teacher, and would like CPD on how to use this resource with your young people, then why not book on one of our courses [HERE]()

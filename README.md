@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = https://lh6.googleusercontent.com/d2l3-p55RqTL7w4dCT-F-FyzmaevIbTvcrbGnIB5sK49oFxlrTOb-hmrQWSoZBAG5AWLGvpbyZfQiI4=w2884-h1464-rw align="middle">
+  <img src = buildit-world-banner.png align="middle">
 </p>
 # Welcome to our Minecraft Pi Github page. #
 

@@ -21,8 +21,8 @@ If you notice any errors, or have alternative code, then please share.
 
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
-|[Hello World](Hack_01_Hello_World.py)|[A Tall Column](Hack_10_A_Tall_Column)|          |          |
-|[Random Messages](Hack_02_Random_Messages.py)|[A Patterned Column](Hack_11_A_Patterned_Column)|          |          |
+|[Hello World](Hack_01_Hello_World.py)|[A Tall Column](Hack_10_A_Tall_Column.py)|          |          |
+|[Random Messages](Hack_02_Random_Messages.py)|[A Patterned Column](Hack_11_A_Patterned_Column.py)|          |          |
 |[User Messages](Hack_03_User_Messages.py)  |Window Fitters          |          |          |
 |[Teleport](Hack_04_Teleport.py)       |Square This Way          |          |          |
 |[The Death Drop](Hack_05_The_Death_Drop.py) |Square That Way          |          |          |

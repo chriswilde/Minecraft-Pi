@@ -21,14 +21,18 @@ If you notice any errors, or have alternative code, then please share.
 
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
-|[Hello World](Hack_01_Hello_World.py)    |          |          |          |
-|[Random Messages](Hack_02_Random_Messages.py)|          |          |          |
-|[User Messages](Hack_03_User_Messages.py)  |          |          |          |
-|[Teleport](Hack_04_Teleport.py)       |          |          |          |
-|[The Death Drop](Hack_05_The_Death_Drop.py) |          |          |          |
-|[You Choose](Hack_06_You_Choose.py)     |          |          |          |
-|[Hide & Seek](Hack_07_Simple_Hide_And_Seek.py)    |          |          |          |
-|[The Glitch](Hack_08_The_Glitch.py)     |          |          |          |
-|[A Little Stack](Hack_09_A_Little_Stack.py) |          |          |          |
-
+|[Hello World](Hack_01_Hello_World.py)    |A Tall Column          |          |          |
+|[Random Messages](Hack_02_Random_Messages.py)|A Patterned Column          |          |          |
+|[User Messages](Hack_03_User_Messages.py)  |Window Fitters          |          |          |
+|[Teleport](Hack_04_Teleport.py)       |Square This Way          |          |          |
+|[The Death Drop](Hack_05_The_Death_Drop.py) |Square That Way          |          |          |
+|[You Choose](Hack_06_You_Choose.py)     |Triangle          |          |          |
+|[Hide & Seek](Hack_07_Simple_Hide_And_Seek.py)    |Flower Poop          |          |          |
+|[The Glitch](Hack_08_The_Glitch.py)     |Let It Go          |          |          |
+|[A Little Stack](Hack_09_A_Little_Stack.py) |Position Magic          |          |          |
+|----------     |The Wall|----------|----------|
+|----------     |Defined Wall|----------|----------|
+|----------     |Definitions Definitions|----------|----------|
+|----------     |Module|----------|----------|
+|----------     |Magic!|----------|----------|
 If you are a teacher, and would like CPD on how to use this resource with your young people, then why not book on one of our courses [HERE](http://www.ntcpd.org.uk/search/advanced-search/1312)

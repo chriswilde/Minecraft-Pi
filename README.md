@@ -31,7 +31,7 @@ If you notice any errors, or have alternative code, then please share.
 |[The Glitch](Hack_08_The_Glitch.py)|[Let It Go](Hack_17_Let_It_Go.py)          |          |          |
 |[A Little Stack](Hack_09_A_Little_Stack.py)|[Position Magic](Hack_18_Position_Magic.py)          |          |          |
 |----------     |[The Wall](Hack_19_The_Wall.py)|----------|----------|
-|----------     |[Defined Wall](Hack_20_The_Defined_Wall.py)|----------|----------|
+|----------     |[Defined Wall](Hack_20_The_Defined_wall.py)|----------|----------|
 |----------     |[Definitions Definitions](Hack_21_Definitions_Definitions.py)|----------|----------|
 |----------     |[Module](Hack_1)|----------|----------|
 |----------     |[Magic!](Hack_1)|----------|----------|

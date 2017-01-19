@@ -21,6 +21,8 @@ If you notice any errors, or have alternative code, then please share.
 
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
+|Booklet    |Booklet|----------|----------|
+|Presnetation     |Presentation|----------|----------|
 |[Hello World](Hack_01_Hello_World.py)|[A Tall Column](Hack_10_A_Tall_Column.py)|          |          |
 |[Random Messages](Hack_02_Random_Messages.py)|[A Patterned Column](Hack_11_A_Patterned_Column.py)|          |          |
 |[User Messages](Hack_03_User_Messages.py)|[Window Fitters](Hack_12_Window_Fitters.py)|          |          |

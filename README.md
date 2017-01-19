@@ -21,7 +21,7 @@ If you notice any errors, or have alternative code, then please share.
 
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
-|Booklet    |Booklet|----------|----------|
+|[Booklet 1](https://docs.google.com/document/d/1dm-OIPIpIEhldNtLYyG_zQk2G3-rBpYdn35__dMofp4/edit)|[Booklet 2](https://docs.google.com/document/d/1gi5wT_Usvg561oAL86debMCRI6QwJcYbiPFDi9wsSXM/edit#)|----------|----------|
 |Presnetation     |Presentation|----------|----------|
 |[Hello World](Hack_01_Hello_World.py)|[A Tall Column](Hack_10_A_Tall_Column.py)|          |          |
 |[Random Messages](Hack_02_Random_Messages.py)|[A Patterned Column](Hack_11_A_Patterned_Column.py)|          |          |

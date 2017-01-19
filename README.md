@@ -22,7 +22,7 @@ If you notice any errors, or have alternative code, then please share.
 | Module 1      | Module 2 | Module 3 | Module 4 |
 |----------     |----------|----------|----------|
 |[Booklet 1](https://docs.google.com/document/d/1dm-OIPIpIEhldNtLYyG_zQk2G3-rBpYdn35__dMofp4/edit)|[Booklet 2](https://docs.google.com/document/d/1gi5wT_Usvg561oAL86debMCRI6QwJcYbiPFDi9wsSXM/edit#)|----------|----------|
-|Presnetation     |Presentation|----------|----------|
+|[Presnetation](https://docs.google.com/presentation/d/1555rK_76DyZsYRPhb7LSx0UIp72VPR-nczkMT59fvuc/edit?usp=sharing)     |[Presentation](https://docs.google.com/presentation/d/1wgJzkeeosm9nra1Yci0cqQY2VIv-d0kk_qFNM8ALpeE/edit?usp=sharing)|----------|----------|
 |[Hello World](Hack_01_Hello_World.py)|[A Tall Column](Hack_10_A_Tall_Column.py)|          |          |
 |[Random Messages](Hack_02_Random_Messages.py)|[A Patterned Column](Hack_11_A_Patterned_Column.py)|          |          |
 |[User Messages](Hack_03_User_Messages.py)|[Window Fitters](Hack_12_Window_Fitters.py)|          |          |

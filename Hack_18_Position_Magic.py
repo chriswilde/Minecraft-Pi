@@ -1,6 +1,6 @@
-import minecraft.minecraft as minecraft
+from mcpi.minecraft import Minecraft
 import time
-mc = minecraft.Minecraft.create()
+mc = Minecraft.create()
 
 while True:
     pos = mc.player.getTilePos()

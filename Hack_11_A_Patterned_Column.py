@@ -1,5 +1,5 @@
-import minecraft.minecraft as minecraft
-mc = minecraft.Minecraft.create()
+from mcpi.minecraft import Minecraft
+mc = Minecraft.create()
 
 xPos = 97
 yPos = 1

@@ -1,7 +1,8 @@
-import minecraft.minecraft as minecraft
+from mcpi.minecraft import Minecraft
 import time
 import minecraft.block as block
-mc = minecraft.Minecraft.create()
+mc = Minecraft.create()
+
 
 while True:
     xPos = mc.player.getPos().x

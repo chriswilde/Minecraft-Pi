@@ -1,6 +1,6 @@
-import minecraft.minecraft as minecraft
+from mcpi.minecraft import Minecraft
 import logos
-mc=minecraft.Minecraft.create()
+mc = Minecraft.create()
 
 #------------FLATTEN AND BASIC BUILD UP------------#
 

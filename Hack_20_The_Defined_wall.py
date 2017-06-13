@@ -1,6 +1,6 @@
-import minecraft.minecraft as minecraft
+from mcpi.minecraft import Minecraft
 import time
-mc = minecraft.Minecraft.create()
+mc = Minecraft.create()
 
 mc.player.setPos(80,1,125)
 
@@ -60,7 +60,3 @@ crenelations(60,13,108)
 sills(62,3,108)
 windows(62,4,108)
 torches(61,5,109)
-    
-
-
-

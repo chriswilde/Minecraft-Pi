@@ -1,7 +1,7 @@
-import minecraft.minecraft as minecraft
+from mcpi.minecraft import Minecraft
 import time
 import random
-mc = minecraft.Minecraft.create()
+mc = Minecraft.create()
 
 while True:
     chat = ["Message 1", "Message 2", "Message 3"]
